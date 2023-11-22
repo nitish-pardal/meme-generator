@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.header-container{
+  display: flex;
+  flex-direction: row;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  align-items: center;
+  padding: 20px;
+  color:white;
+}
+.troll-image{
+ 
+  margin-right:10px;
+}
+.heading{
+  margin-right:auto;
+}
+.project-info{
+  margin-right:20px;
+  font-size:14px;
+}
