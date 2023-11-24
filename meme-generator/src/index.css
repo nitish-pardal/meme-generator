@@ -41,7 +41,10 @@
   grid-column: 1/-1;
   border-radius: 5px;
   border:none;
-background: linear-gradient(90deg, #711F8D 1.14%, #A818DA 100%);
-color:white;
-font-size: 16px;
+  background: linear-gradient(90deg, #711F8D 1.14%, #A818DA 100%);
+  color:white;
+  font-size: 16px;
+}
+.meme--image{
+  width:500px;
 }
